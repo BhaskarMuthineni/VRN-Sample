@@ -92,6 +92,22 @@ export class MasterComponent implements OnInit {
       vrn: '1000127',
       vehicle: 'MH04 X2135',
       purpose: "Inbound"
+    },
+    {
+      icon: 'flight',
+      transport: 'Courier Air',
+      transportCode: 'CA',
+      vrn: '1000127',
+      vehicle: 'MH04 X2135',
+      purpose: "Inbound"
+    },
+    {
+      icon: 'flight',
+      transport: 'Courier Air',
+      transportCode: 'CA',
+      vrn: '1000127',
+      vehicle: 'MH04 X2135',
+      purpose: "Inbound"
     }
   ];  
 
